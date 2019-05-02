@@ -1,0 +1,21 @@
+#head-image{
+	background: linear-gradient(to bottom right, #ff6600 27%, #ff9966 68%);
+	height: 100%;
+}
+nav .navbar-nav li a{
+  color: black !important;
+  font-weight: 700;
+ }
+ .navbar .navbar-brand{
+	font-weight: 700;
+	font-size: 2.5rem;
+	color: rgb(46, 56, 130);
+}
+#football-picture{
+	background-image: url(../img/pitch2.png);
+	padding-top: 70%;
+	margin-top: 5%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 700px;
+}
